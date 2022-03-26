@@ -1,6 +1,6 @@
-## Olá Sou o EricLM.EVO, Bem vindos.
+## Olá, Bem vindos.
 
-- 👋 Oi, eu sou @ericlmmendes
+- 👋 Oi, eu sou EricLM.EVO
 - 👀 Estou interessado em...
 - 🌱 Atualmente estou HTML, CSS.
 - 💞️ Estou procurando colaborar em...
