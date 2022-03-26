@@ -1,4 +1,12 @@
 ## Olá Sou o EricLM.EVO, Bem vindos.
+
+- 👋 Oi, eu sou @ericlmmendes
+- 👀 Estou interessado em...
+- 🌱 Atualmente estou HTML, CSS.
+- 💞️ Estou procurando colaborar em...
+- 📫 Como chegar até mim E-mail: ericlm.evo@gmail.com
+
+
 <div align="center">
   <a href="https://github.com/ericlmmendes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericlmmendes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
